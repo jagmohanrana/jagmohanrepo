@@ -1,0 +1,103 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jagga.com" resolutions="1x" timestamp="1533820782412">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="384918814" ref="about:portfolio:index:contact"/>
+    <file name="about.css" crc="3859074657" ref="about"/>
+    <file name="portfolio.css" crc="472749333" ref="portfolio"/>
+    <file name="index.css" crc="31554227" ref="index"/>
+    <file name="contact.css" crc="4104745400" ref="contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact:portfolio"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:contact:portfolio"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:contact:portfolio"/>
+    <file name="museconfig.js" crc="380897831" ref="index:about:contact:portfolio"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:contact:portfolio"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:contact:portfolio"/>
+    <file name="webpro.js" crc="242022427" ref="index:about:contact:portfolio"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:about:contact:portfolio"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:about:contact:portfolio"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:about:contact:portfolio"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:contact:portfolio"/>
+    <file name="require.js" crc="4157109226" ref="index:about:contact:portfolio"/>
+    <file name="form_check.php" crc="147359589" ref="contact"/>
+    <file name="form_throttle.php" crc="93986428" ref="contact"/>
+    <file name="form_process.php" crc="3851993751" ref="contact"/>
+    <file name="form-u632.php" crc="247217281" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="untitled-2.svg" crc="4131428668" seo="true" ref="index:about:contact:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="untitled-2_poster_.png" crc="4059226216" ref="index"/>
+    <file name="1509_giordano_wallpaper_colagene_1680x1050-crop-u260.jpg" crc="347316704" seo="true" ref="index:about:contact:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:contact:portfolio"/>
+    <file name="arseniy-chebynkin-tokyo-street-sunset-crop-u382.jpg" crc="449620977" seo="true" ref="index:about:contact:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="homepage-hero-xlarge-crop-u402.jpg" crc="506676827" seo="true" ref="index:about:contact:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="studio-ghibli-wallpaper-images-37-crop-u422.jpg" crc="4205423621" seo="true" ref="index:about:contact:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="2000px-adobe_illustrator_cc_iconsvg-crop-u460.png" crc="3879468753" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adobe_indesign_cc_iconsvg-crop-u469.png" crc="34640433" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2000px-adobe_dreamweaver_cc_iconsvg-crop-u454.jpg" crc="4161138967" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2000px-adobe_photoshop_cc_iconsvg-crop-u472.png" crc="4125479468" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="105-crop-u563.jpg" crc="132944112" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="djev-portrait_large-crop-u569.jpg" crc="258500186" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="panda-crop-u748.jpg" crc="232270618" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="unztitled-1-crop-u754.jpg" crc="3784347462" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="groot-3-crop-u757.jpg" crc="396860656" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="genji takiya portrait-crop-u775.jpg" crc="130516466" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="343090-pai63a-129-crop-u772.jpg" crc="3824975534" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="studiojq2018_show_go_091_dribbble-crop-u769.jpg" crc="4028287531" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="502810540" seo="true" mt="1533820347300" redirect="true"/>
+  <file name="about.html" crc="4255323727" seo="true" mt="1533819292249" redirect="true"/>
+  <file name="contact.html" crc="394903036" seo="true" mt="1533819984065" redirect="true"/>
+  <file name="portfolio.html" crc="241569529" seo="true" mt="1533820715781" redirect="true"/>
+</manifest>
