@@ -1,0 +1,146 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jagmohanrana.com" resolutions="1x" timestamp="1535804562096">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4245684904" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u1385.php" crc="530468304" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="1516890375594.jpg" crc="415026808" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="untisaffdtled-1-crop-u413.png" crc="303985751" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-sss1-crop-u428.png" crc="30051916" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitlasdsaded-1-crop-u416.png" crc="52087827" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitlesasss-1-crop-u425.png" crc="57130774" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="new7.jpg" crc="4043842751" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-asa1.jpg" crc="3982688053" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asd1.jpg" crc="3959260887" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sdfas1.jpg" crc="61269016" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1.jpg" crc="4020997232" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13308729_607915246051965_4968169235492510792_o-crop-u1083.jpg" crc="535570893" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1516890375594-crop-u1086.jpg" crc="293949813" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rr-crop-u1091.jpg" crc="4151307493" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wtwp4s_bliznaca-crop-u1105.jpg" crc="295330806" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rohma-ansari-horror-1-crop-u1101.jpg" crc="3883690890" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="188187-1myltx1393171124-crop-u1096.jpg" crc="364315264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="djev-portrait_large.jpg" crc="92603071" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="105.jpg" crc="4274485846" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1509_giordano_wallpaper_colagene_1680x1050-crop-u1122.jpg" crc="4028821098" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="studio-ghibli-wallpaper-images-37-crop-u1118.jpg" crc="3964549744" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="playground1a(low).jpg" crc="4000138116" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arseniy-chebynkin-tokyo-street-sunset-crop-u1109.jpg" crc="289556861" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5a2b4645d64aa0000120fefb_about-the-brand-crop-u1180.jpg" crc="445328939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2018_trends_assymmetrical_grid.jpg" crc="4292314495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flat-web-design-noida-crop-u1196.jpg" crc="417182541" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="interesting-design-ideas-home-website-designing-websites-interior-on-outstanding-14.jpg" crc="4039277643" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="psd-corporate-business-web-design-template-free-download-make-a-photo-gallery-free-web-design-templates.jpg" crc="3794631714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screencapture-yearbooklife-yearbooks-1503933673233.png" crc="106323954" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9d20e853-0d60-4647-b15e-f8f8c149e1cf_rw_1920-crop-u1238.jpg" crc="4036665969" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0093-crop-u1229.jpg" crc="151593341" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flyer-mock-up_01--crop-u1254.jpg" crc="12857249" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="large_product-flyer_letter.jpg" crc="3770200320" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="doble_pagina-big-crop-u1246.jpg" crc="4232810245" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mockups_04--crop-u1250.jpg" crc="3945791073" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untisaffdtled-1-crop-u1352.png" crc="303985751" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitlasdsaded-1-crop-u1356.png" crc="52087827" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-sss1-crop-u1354.png" crc="30051916" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitlesasss-1-crop-u1358.png" crc="57130774" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="291487986" seo="true" mt="1535804230332" redirect="true"/>
+</manifest>
